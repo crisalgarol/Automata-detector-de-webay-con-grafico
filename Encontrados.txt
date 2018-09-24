@@ -1,0 +1,8 @@
+Se encontró 'web' en la palabra 9
+Se encontró la palabra 'ebay' en la palabra 3de la línea2
+Se encontró 'web' en la palabra 9
+Se encontró la palabra 'ebay' en la palabra 9de la línea2
+Se encontró 'web' en la palabra 2
+Se encontró la palabra 'ebay' en la palabra 2de la línea3
+Se encontró la palabra 'ebay' en la palabra 6de la línea3
+Se encontró 'web' en la palabra 12

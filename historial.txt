@@ -1,0 +1,192 @@
+A(E) --> E  
+E(l) --> A  
+
+El
+
+A(v) --> A  
+A(e) --> E  
+E(l) --> A  
+A(o) --> A  
+A(z) --> A  
+
+veloz
+
+A(g) --> A  
+A(a) --> A  
+A(t) --> A  
+A(o) --> A  
+
+gato
+
+A(h) --> A  
+A(i) --> A  
+A(n) --> A  
+A(d) --> A  
+A(u) --> A  
+
+hindu
+
+A(e) --> E  
+E(n) --> A  
+A(c) --> A  
+A(o) --> A  
+A(n) --> A  
+A(t) --> A  
+A(r) --> A  
+A(o) --> A  
+
+encontro
+
+A(e) --> E  
+E(n) --> A  
+
+en
+
+A(l) --> A  
+A(a) --> A  
+
+la
+
+A(w) --> B  
+B(e) --> C  
+C(b) --> D  
+
+web
+
+
+
+A(d) --> A  
+A(e) --> E  
+
+de
+
+E(e) --> E  
+E(b) --> F  
+F(a) --> G  
+G(y) --> H  
+
+ebay
+
+H(u) --> A  
+A(n) --> A  
+A(a) --> A  
+
+una
+
+A(p) --> A  
+A(a) --> A  
+A(l) --> A  
+A(a) --> A  
+A(b) --> A  
+A(r) --> A  
+A(a) --> A  
+
+palabra
+
+A(m) --> A  
+A(u) --> A  
+A(y) --> A  
+
+muy
+
+A(r) --> A  
+A(a) --> A  
+A(r) --> A  
+A(a) --> A  
+
+rara
+
+A(l) --> A  
+A(l) --> A  
+A(a) --> A  
+A(m) --> A  
+A(a) --> A  
+A(d) --> A  
+A(a) --> A  
+
+llamada
+
+A(w) --> B  
+B(e) --> C  
+C(b) --> D  
+D(a) --> G  
+G(y) --> H  
+
+webay
+
+
+
+A(w) --> B  
+B(e) --> C  
+C(b) --> D  
+D(a) --> G  
+G(y) --> H  
+
+webay
+
+H(q) --> A  
+A(u) --> A  
+A(e) --> E  
+
+que
+
+E(d) --> A  
+A(e) --> E  
+E(c) --> A  
+A(i) --> A  
+A(a) --> A  
+
+decia
+
+A(q) --> A  
+A(u) --> A  
+A(e) --> E  
+
+que
+
+E(e) --> E  
+E(b) --> F  
+F(a) --> G  
+G(y) --> H  
+
+ebay
+
+H(n) --> A  
+A(o) --> A  
+
+no
+
+A(e) --> E  
+E(r) --> A  
+A(a) --> A  
+
+era
+
+A(u) --> A  
+A(n) --> A  
+A(a) --> A  
+
+una
+
+A(m) --> A  
+A(u) --> A  
+A(y) --> A  
+
+muy
+
+A(b) --> A  
+A(u) --> A  
+A(e) --> E  
+E(n) --> A  
+A(a) --> A  
+
+buena
+
+A(w) --> B  
+B(e) --> C  
+C(b) --> D  
+
+web
+
+
+
